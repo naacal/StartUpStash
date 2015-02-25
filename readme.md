@@ -8,25 +8,29 @@ Startup Stash is a curated directory of resources and tools to help you build yo
 ### Development
 
 * [DevDocs](http://devdocs.io/) 
+
 DevDocs combines multiple API documentations.
 
 ### Online tools
 
 * [Peek by UserTesting](http://peek.usertesting.com/)
+
 Get a free, 5-minute video of someone using your site
 
 * [MozBar 3.0](http://moz.com/tools/seo-toolbar)
-The Free, Completely Redesigned SEO Toolbar by Moz
 
+The Free, Completely Redesigned SEO Toolbar by Moz
 
 ### Resources
 
 * [Unsplash](https://unsplash.com/)
+
 10 Public Domain Photos Every 10 Days
 
 ### Usability 	
 
 * [UsabilityHub](https://usabilityhub.com/)
+
 Test your designs and mockups on real people
 
 ### Product Demo
