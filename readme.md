@@ -7,7 +7,7 @@ Startup Stash is a curated directory of resources and tools to help you build yo
 
 ### Development
 
-* [DEVDOCS](http://devdocs.io/)
+* [DEVDOCS](http://devdocs.io/) 
 > DevDocs combines multiple API documentations.
 
 ### Online tools
